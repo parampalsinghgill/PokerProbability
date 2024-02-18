@@ -1,0 +1,3 @@
+﻿  pokerHandsProbability_5Card.c
+C:\Users\param\OneDrive\Learn\BCIT\COMP 2511\Week05\Assign05_Start\PokerProbability\pokerHandsProbability_5Card.c(51,22): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  PokerProbability.vcxproj -> C:\Users\param\OneDrive\Learn\BCIT\COMP 2511\Week05\Assign05_Start\PokerProbability\x64\Debug\PokerProbability.exe
